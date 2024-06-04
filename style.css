@@ -1,0 +1,68 @@
+body{
+    background-color: bisque;
+}
+
+.titleOne{
+    text-align: center;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 10px;
+    border: 2px solid crimson;
+    background-color: white;
+}
+
+.textNone{
+    text-decoration: none;
+}
+
+.textInherit{
+    text-decoration: inherit;
+}
+
+.textOverline{
+    text-decoration: overline;
+}
+
+.textUnderline{
+    text-decoration: underline;
+}
+
+.textLineThrough{
+    text-decoration: line-through;
+}
+
+.dunaImg{
+    padding: 80px 10px 80px 10px;
+    border: 5px solid black;
+}
+
+.dunaImg2{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 5px solid black
+}
+
+.borderDiv{
+    padding: 10px 10px 10px 10px;
+    border: 4px solid salmon;
+    text-align: justify;
+}
+
+.borderWithDiv{
+    border: 0px solid red;
+    border-width: 35px 5px 5px 5px;
+    padding: 15px 15px 15px 15px;
+    text-align: center;
+}
+
+.borderColorDiv{
+    border: 10px solid;
+    border-color: blueviolet;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    /*border-left-width: 5px;*/
+    /*border-right-width: 5px;*/
+    padding: 15px 15px 15px 15px;
+    text-align: justify;
+}
